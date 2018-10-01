@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 106,
-    "versionPublish": "4.7.6",
+    "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
